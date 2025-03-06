@@ -1,4 +1,4 @@
-# 不動産賃料予測プロジェクト
+# マイナビ × SIGNATE Student Cup 2019（SOTAチャレンジ）の実装コード
 
 ## 大会概要
 このプロジェクトでは、[マイナビ × SIGNATE Student Cup 2019: 賃貸物件の家賃予測](https://signate.jp/competitions/264)に基づき、東京都内の賃貸物件の家賃価格を予測するモデルを構築します。
